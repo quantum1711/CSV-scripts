@@ -1,2 +1,0 @@
-insertpostgres.py
-pause
